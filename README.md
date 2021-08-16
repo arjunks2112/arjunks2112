@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development and Penetration Testing.**
 
-- 📫 How to reach me **arjunks2112@gmail.com**
+- 📫 You can reach me via **arjunks2112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
