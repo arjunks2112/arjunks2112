@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunks2112&label=Profile%20views&color=0e75b6&style=flat" alt="arjunks2112" /> </p>
 
+<img align="right" src="https://github.com/arjunks2112/arjunks2112/Developer.gif"/>
+
 - 🔭 I’m currently doing projects on **React , Flutter and Full Stack Web Development**
 
 - 🌱 I’m currently learning **Blockchain Development and Penetration Testing.**
