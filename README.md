@@ -1,4 +1,4 @@
-<a href="#"><center><img align="middle" width="70%" height="auto" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" height="175px"/></center></a>
+<a href="#"><center><img align="middle" width="50" height="auto" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" height="175px"/></center></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arjun</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Tech Enthusiast from India.</h3>
