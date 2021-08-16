@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><center><img width="70%" height="auto" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" height="175px"/></center></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arjun</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer and Tech Enthusiast from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/arjunks2112/github-readme-activity-graph"><img alt="ArjunK S's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/arjunks2112/github-readme-activity-graph"><img alt="ArjunK S's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arjunks2112&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -72,3 +72,4 @@
     <img src="https://komarev.com/ghpvc/?username=arjunks2112">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/arjunks2112?label=Followers&style=social" alt="GitHub Badge"></a>
+
