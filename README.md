@@ -36,16 +36,14 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/arjunks2112/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arjun K S's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunks2112&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arjun K S's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunks2112&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/arjunks2112/github-readme-stats"><img alt="Arjun K S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arjunks2112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/arjunks2112/github-readme-stats"><img alt="Arjun K S's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="Arjun K S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arjunks2112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="Arjun K S's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -53,7 +51,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/arjunks2112/github-readme-activity-graph"><img alt="ArjunK S's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arjunks2112&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="ArjunK S's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arjunks2112&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
